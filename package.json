@@ -11,6 +11,7 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
-    "random-choice": "^1.0.0"
+    "random-choice": "^1.0.0",
+    "random-int": "^2.0.1"
   }
 }
