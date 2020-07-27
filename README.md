@@ -1,3 +1,7 @@
+## Features
+- flip a coin
+- get a random int between 1 and 10 or put an argument and get it between 1 and arg
+
 ## Requirements
 
 - [Node.js](http://nodejs.org/)
